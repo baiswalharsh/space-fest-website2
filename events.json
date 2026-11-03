@@ -1,0 +1,10 @@
+[
+  { "id": "code-sprint", "title": "Code Sprint", "category": "Technical", "date": "2027-02-12", "time": "10:00", "displayTime": "10:00 AM", "venue": "Lab 2", "description": "A fast-paced build challenge for curious minds." },
+  { "id": "bot-brawl", "title": "Bot Brawl", "category": "Technical", "date": "2027-02-12", "time": "10:00", "displayTime": "10:00 AM", "venue": "Innovation Arena", "description": "Bring your bot. Bring your best strategy." },
+  { "id": "pixel-planet", "title": "Pixel Planet", "category": "Cultural", "date": "2027-02-12", "time": "11:30", "displayTime": "11:30 AM", "venue": "Design Studio", "description": "Make something wonderfully out of the ordinary." },
+  { "id": "sound-orbit", "title": "Sound Orbit", "category": "Cultural", "date": "2027-02-12", "time": "14:00", "displayTime": "2:00 PM", "venue": "Main Stage", "description": "An afternoon of live music and new sounds." },
+  { "id": "ai-mission", "title": "AI Mission", "category": "Technical", "date": "2027-02-13", "time": "09:00", "displayTime": "9:00 AM", "venue": "Lab 3", "description": "Explore practical ideas for a smarter future." },
+  { "id": "rocket-league", "title": "Rocket League", "category": "Technical", "date": "2027-02-13", "time": "11:00", "displayTime": "11:00 AM", "venue": "Campus Atrium", "description": "A team challenge with a little friendly fire." },
+  { "id": "open-mic", "title": "Open Mic: Afterglow", "category": "Cultural", "date": "2027-02-13", "time": "13:30", "displayTime": "1:30 PM", "venue": "Main Stage", "description": "Poetry, stories and songs from our community." },
+  { "id": "starfall", "title": "Starfall Showcase", "category": "Cultural", "date": "2027-02-13", "time": "16:00", "displayTime": "4:00 PM", "venue": "Open-Air Amphitheatre", "description": "The festival finale, under the open sky." }
+]
